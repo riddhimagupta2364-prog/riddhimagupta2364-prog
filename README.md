@@ -4,7 +4,8 @@
 
 <br clear="both">
 
-<h3 align="left">👋  I'm Riddhima Gupta <br>🚀 Full-Stack & AI Developer | MERN | Next.js <br><br>Focused on creating scalable web solutions, experimenting with AI, and transforming ideas into real-world projects.<br>BPassionate about building scalable apps and constantly learning new technologies.</h3>
+<h3 align="left">👋  I'm Riddhima Gupta <br>🚀 Full-Stack & AI Developer | MERN | Next.js <br><br>
+  Passionate about building scalable web apps, experimenting with AI technologies, and bringing ideas to life through code and constantly learning new technologies.</h3>
 
 ###
 
