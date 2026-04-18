@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="left">👋  I'm Amit Kumar  <br>🚀 Full-Stack & AI Developer | MERN | Next.js <br><br>I enjoy building scalable web apps, experimenting with AI, and turning ideas into real products.</h3>
+<h3 align="left">👋  I'm Riddhima Gupta <br>🚀 Full-Stack & AI Developer | MERN | Next.js <br><br>Focused on creating scalable web solutions, experimenting with AI, and transforming ideas into real-world projects.<br>BPassionate about building scalable apps and constantly learning new technologies.</h3>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs (and fixing them) since 2022  <br>🎓 Final-year B.Tech CSE student at IIIT Ranchi  <br>💻 Full-Stack Developer with strong backend focus (MERN, Next.js)  <br>🤖 Exploring AI, LLMs, and intelligent systems  <br>📈 Solved 500+ DSA problems and love clean, efficient code  <br>🎯 Goal: Build impactful products and grow as an SDE</p>
+<p align="left">✨ Creating bugs (and fixing them) since 2023  <br>🎓 3rd-year B.Tech CSE student at Galgotias University  <br>💻 Full-Stack Developer with strong backend focus (MERN, Next.js)  <br>🤖 Exploring AI, LLMs, and intelligent systems  <br>📈 Solved 250+ DSA problems and love clean, efficient code  <br>🎯 Goal: Build impactful products and grow as an SDE</p>
 
 ###
 
@@ -53,8 +53,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
+  
+  <img width="12" /
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
@@ -63,7 +63,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
@@ -71,7 +71,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
