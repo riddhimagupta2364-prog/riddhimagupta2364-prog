@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hey👋 What's app
 
 <!--
-**riddhimagupta2364-prog/riddhimagupta2364-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about developing scalable web applications, exploring AI technologies, and converting ideas into practical solutions.
+I focus on building scalable web solutions, leveraging AI, and turning concepts into real-world products.**riddhimagupta2364-prog/riddhimagupta2364-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
